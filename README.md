@@ -1,2 +1,3 @@
 # PyJournalGraph
-Библиотека для красивой визуализации данных
+
+Python package for beautiful hight quality data-visualization
